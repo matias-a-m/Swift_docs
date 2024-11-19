@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='1_Comparacion_de_datos'/>
+        <page name='2_Rangos'/>
+        <page name='3_Operadores_logicos'/>
+        <page name='4_Gestion_de_errores'/>
+    </pages>
+</playground>
